@@ -1,0 +1,1 @@
+# docker-consume-github-package
